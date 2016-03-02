@@ -16,5 +16,5 @@ public static Double getCalculatedValue () {    //Method definition and body
 public static Double getCalculatedValueViaPrice (Decimal price) {   //Method definition and body
     //do some calculation
     myValue1 = myValue1+price;//Final Price would be 100+100=200.00
-    return myValue1;
+    return myValue12;
 }}
